@@ -8,6 +8,8 @@ This is a News Website App that is primarily concerned with making its users get
 - To view articles from a preferred source the user has to click on that source
 - User can opt to use the navbar which presents a more organized drodown of available sources repective of category.
 - Users can also choose to read articles from top headlines.
+- For further explanation check on [https://github.com/EKibet/NewsHighlights/blob/master/specs.md](Spec.ms)
+
 
 ## Behavior Driven Development
 | Input            | Behaviour                         | Output                        |
